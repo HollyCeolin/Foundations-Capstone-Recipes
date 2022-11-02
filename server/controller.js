@@ -41,16 +41,4 @@ module.exports ={
         res.status(200).send(recipes)
     },
 
-    // updateRecipe: (req, res) => {
-    //     let {id,recipeName,mealType} = req.body
-    //     let index = recipes.findIndex(elem => elem.id === +req.params.id)
-    //     let updatedRecipe= {
-    //         id,
-    //         recipeName,
-    //         mealType
-    //     }
-    //     recipes.splice(index, 1)
-    //     recipes.push(updatedRecipe)
-    //     res.status(200).send(recipes)
-    // }
-}
+}   

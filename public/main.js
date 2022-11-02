@@ -10,7 +10,7 @@ const recipeContainer = document.getElementById('recipe-container')
 const getAllRecipes = () => axios.get(baseURL).then(recipeCallback).catch(errCallback)
 const createRecipe = body => axios.post(baseURL, body).then(recipeCallback).catch(errCallback)
 const deleteRecipe = id => axios.delete(`${baseURL}/${id}`).then(recipeCallback).catch(errCallback)
-//const updateRecipe = (id, body) => axios.put(`${baseURL}/${id}`,body).then(recipeCallback).catch(errCallback)
+
 
 const createList = (arr) => {
     let listElement = document.createElement('ol')
@@ -69,30 +69,6 @@ const formatRecipe = (event) => {
     
 }
 document.getElementById('add-recipe').addEventListener('submit', formatRecipe)
-//document.getElementById('submit').addEventListener('click', editRecipe)
-
 
 
 getAllRecipes()
-
-// const editRecipe = (event) => {
-//     event.preventDefault()
-//     let name = document.getElementById('add-recipe-name')
-//     let type = document.getElementById('add-meal-type')
-//     let steps = document.getElementById('add-directions')
-//     let ingredientList = document.getElementById('add-ingredients')
-
-//     let updatedRecipeObj = {
-//         recipeName: name.value,
-//         mealType: type.value,
-//         directions: steps.value.split(";"),
-//         ingredients: ingredientList.value.split(";")
-//     }
-//     updateRecipe(updatedRecipeObj)
-
-//}
-
-
-
-
-

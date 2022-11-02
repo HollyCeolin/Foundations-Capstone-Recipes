@@ -170,6 +170,55 @@
     "Bake for 2 hours on a baking sheet until the strips are dry and hard.",  
     "Cool completely before presenting to your pup."]
 
-    }
+    },
+{
+    "id": 8,  
+    "recipeName": "Feijoada",
+    "mealType": "Soups and Stews",
+    
+    "ingredients": [
+    "6 lbs. black beans", 
+    "smoked porkchops", 
+    "1 onion, chopped", 
+    "2 Tbsp salt", 
+    "1 bay leaf", 
+    "Beef Roast", 
+    "linguica or smoked sausage", 
+    "3 cloves garlic",  
+    "2 tsp. pepper"],
+    
+    "directions": [
+    "Prepare beans by soaking overnight, or boiling 3 minutes and let sit one hour covered.", 
+    "Add meats and simmer, adding water as needed.  Beans should be barely covered.", 
+    "When the beans are almost done, pull out the meat.  At this point, in a separate pan, saute in oil, onion, garlic, salt and pepper, and bay leaf.",  
+    "Add three ladles of beans and one ladle of bean water to the frying pan.",  
+    "Mash beans to a paste.  Pour pan ingredients into pot.  Continue cooking",
+    "Cut cooked meat into bite sized pieces and add and to large pot.  Season to taste and remove the bay leaf.  Serve over rice, top with molho with a side of oranges."]
+
+    },
+
+    {
+      "id": 9,  
+      "recipeName": "Molho",
+      "mealType": "Sauce",
+      
+      "ingredients": [
+      "Green pepper",
+      "Tomato",
+      "Red wine vinegar",
+      "Salt",
+      "Green Onion",
+      "Olive Oil",
+      "Lemon juice",
+      "pepper",
+      "Fresh cilantro"],
+      
+      "directions": [
+      "Finely chop pepper, onion, and tomato",
+      "Add equal parts oil and vinegar",
+      "Season with lemon juice, salt and pepper.",
+      "Fresh cilantro adds a nice flavor."]
+  
+      }
 
   ]

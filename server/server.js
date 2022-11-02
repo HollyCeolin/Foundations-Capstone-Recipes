@@ -18,7 +18,6 @@ app.get('/js', getJS)
 app.get(`/api/recipe`, getRecipes)
 app.delete(`/api/recipe/:id`, deleteRecipe)
 app.post(`/api/recipe`, createRecipe)
-//app.put(`/api/recipe/:id`, updateRecipe)
 
 
 const port = process.env.PORT || 5000
