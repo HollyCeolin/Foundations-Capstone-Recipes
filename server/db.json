@@ -1,0 +1,175 @@
+
+
+[
+    {
+      "id": 1,
+      "recipeName": "Chocolate Chip Cookies",
+
+      "mealType": "Desserts",
+
+      "ingredients": [ 
+      "1 cup butter", 
+      "2 cups white sugar", 
+      "1 cup brown sugar",
+      "2 eggs", 
+      "2 tsp vanilla", 
+      "2 tsp salt", 
+      "2 tsp baking soda", 
+      "4-5 cups flour", 
+     "semi-sweet chocolate chips"],
+      
+      "directions": [ 
+      "Pre heat oven to 350.",  
+      "Place butter and shortening in stand mixer, beat until smooth, about 3-5 minutes.",
+      "Add 1 cup of sugar at a time, alternating between white sugar and brown sugar.",
+      "Add 1 egg at at time and mix until combined.",  
+      "Add vanilla and mix well.",  
+      "Add salt and baking soda, and mix well.",
+      "Add 1 cup of flour at a time.",
+      "You want the dough to be sticky but not wet.",
+      "Add as many chocolate chips that your heart desires!",  
+      "Bake at 350 for 9 minutes.",  
+      "You want them slightly undercooked, so you can freeze them.",  
+      "Frozen cookies are the best way to eat these!"]
+    },
+
+    {
+      "id": 2,
+      "recipeName": "Brigadeiro",
+
+      "mealType": "Desserts",
+
+      "ingredients": [
+      "1 14oz can of sweet condensed milk", 
+      "1/2 cup chocolate powder such as Nescau or Nesquik", 
+      "1 Tbsp margarine or butter (plus more for hands)",
+      "Sprinkles"],
+
+      "directions": [
+      "Add the condensed milk, the butter, and the chocolate powder to a medium saucepan and stir.",  
+      "Cook over medium heat for approximately 10 minutes,stirring repeatedly and scraping the sides and the bottom of the pan with a spatula to avoid burning.",  
+      "The brigadeiro is ready when you scrape the bottom of the pan, and the brigadeiro takes 2-3 seconds to come back to its place", 
+      "or when the mixture reaches 205F -208F", 
+      "you can use a candy thermometer or a regular thermometer to check.",  
+      "Pour the brigadeiro into a dish or a plate, and let it cool about 2 hours.",  
+      "Meanwhile, pour sprinkles in a deep bowl or plate.",  
+      "When the brigadeiro is cooled, butter your hands and scoop 1/2 tbsp portions into little balls.",  
+      "Roll the little balls in the sprinkles.", 
+      "Keep them in a cool place or the refrigerator until ready to serve."]
+      
+    },
+
+    {
+      "id": 3,
+      "recipeName": "Canine Beef Stew",
+      "mealType": "Dog Food",
+
+      "ingredients": ["1 pound of beef stew meat", 
+      "1 small sweet potato", 
+      "1/2 cup of carrots, diced", 
+      "1/2 cup of green beans, diced", 
+      "1/2 cup of flour", 
+      "1 - 1 1/2 cups water", 
+      "1 tablespoon of vegetable oil."],
+
+      "directions":  [
+      "Cook the sweet potato in a microwave for 5-8 minutes until firm but tender, Set aside.",  
+      "Slice the beef into small chunks about the size of a nickel.",  
+      "Cook the beef stew pieces in a tablespoon of vegetable oil over medium heat for 10 minutes or until well-done.",  
+      "Remove the beef chunks from the pan and reserve the drippings.",  
+      "Dice the sweet potato",  
+      "Heat the drippings over medium-low heat",  
+      "Slowly add flour and water into the drippings while whisking to create a thick gravy.",  
+      "Add the meat, sweet potato, carrots, and green beans into the gravy and stir to coat.",  
+      "Cook until the carrots are tender - about 10 minutes.",  
+      "Let it cool and serve",  
+      "Store remaining stew in the refrigerator for up to 5 days, or freeze for later."] 
+
+    },
+
+    {
+      "id": 4,
+      "recipeName": "Canine turkey & rice & veggies",
+
+      "mealType": "Dog Food",
+
+      "ingredients": [
+      "6 cups of water", 
+      "1 pound ground turkey", 
+      "2 cups uncooked brown rice", 
+      "1 teaspoon dried rosemary", 
+      "16 oz package of frozen broccoli, carrots, and cauliflower."],
+      
+      "directions":  [
+      "Place the water, ground turkey, rice, and rosemary into a large dutch oven.",  
+      "Stir until the ground turkey is broken up and evenly distributed throughout the mixture.",  
+      "Bring to a boil over high heat, then reduce to low & simmer for 20 minutes.",  
+      "Add the frozen vegetables and cook for an additional 5 minutes.",  
+      "Remove from heat and cool.",  
+      "Refrigerate until ready to serve, or freeze for later."] 
+    },
+
+    {
+      "id": 5,
+      "recipeName": "Easy Slow Cooker Canine Beef & Rice",
+      "mealType": "Dog Food",
+      "ingredients": [
+      "2 1/2 pounds ground beef", 
+      "1 1/2 cups uncooked brown rice", 
+      "1 (15oz) can of kidney beans, drained and rinsed",  
+      "1 1/2 cups chopped butternut squash",  
+      "1 1/2 cups diced carrots",  
+      "1/2 cup frozen peas",  
+      "4 cups water"],
+      
+      "directions": [
+      "Stir in all ingredients with 4 cups of water in a slow cooker.",  
+      "Cover and cook on low heat for 5-6 hours or high heat for 2-3 hours.",  
+      "Stir as needed and cool to room temperature before serving.",  
+      "Keep in the refrigerator, or freeze for later."]
+    },
+
+    {
+      "id": 6,
+      "recipeName": "Pumpkin Dog Biscuits",
+      "mealType": "Dog Treats",
+      "ingredients": [
+      "1 can pumpkin puree (NOT pumpkin pie filling)", 
+      "2 eggs", 
+      "1/2 cup oats",
+      "3 cups whole wheat flour", 
+      "3 tablespoons of peanut butter (xylitol free)", 
+      "1/2 teaspoon cinnamon"],
+
+      "directions": [
+      "Preheat oven to 350F.",  
+      "In a small bowl, stir together the flour, oats, and cinnamon.",  
+      "In a separate bowl, whisk together the eggs, pumpkin, and peanut butter until combined.",  
+      "Stir wet ingredients into dry ingredients.",  
+      "Pour a floured surface and roll the dough to 1/2 inch thick.",  
+      "Cut out biscuits using a cookie cutter.",  
+      "The dough will be a little sticky; add a dusting of flour to your hands and the rolling pinto help.",
+      "Bake for 30-35 minutes until golden brown.",  
+      "Place on cooling racks and let cool thoroughly.",
+      "They will harden as they cool."]
+    },
+
+    {
+
+    "id": 7,  
+    "recipeName": "Canine Chicken Jerky",
+    "mealType": "Dog Treats",
+    
+    "ingredients": [
+    "2-4 3oz boneless, skinless chicken breasts"],
+    
+    "directions": [
+    "Preheat the oven to 200F ", 
+    "Trim all excess fat off the chicken breasts.", 
+    "Cut into 1/8 inch thick strips usind a pairing knife.",  
+    "Bake for 2 hours on a baking sheet until the strips are dry and hard.",  
+    "Cool completely before presenting to your pup."]
+
+    }
+
+  ]

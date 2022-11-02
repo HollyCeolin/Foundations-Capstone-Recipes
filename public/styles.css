@@ -1,0 +1,189 @@
+input {
+    height: 70px;
+    width: 500px;
+    
+    
+}  
+
+form {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 14pt;
+    text-align: center;
+}
+
+#add-recipe-name {
+    background-color: white;
+    background-image: url('https://cdn.iconscout.com/icon/free/png-128/ingredients-6215861-5076113.png');
+    background-repeat: no-repeat;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+    border-radius: 12px;
+    font-size: 16pt;
+
+    
+}
+#add-meal-type {
+    background-color: white;
+    background-position: 0px 0px;
+    background-image: url('https://creativevip.net/resource-images/16-food-icons-1.png');
+    background-repeat: no-repeat;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+    border-radius: 12px;
+    font-size: 16pt;
+    
+}
+
+#add-ingredients {
+    background-color: white;
+    background-image: url('https://cdn.iconscout.com/icon/free/png-128/ingredients-6215861-5076113.png');
+    background-repeat: no-repeat;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+    border-radius: 12px;
+    font-size: 14pt;
+    
+}
+
+#add-directions {
+    background-color: white;
+    background-position: 0px 0px;
+    background-image: url('https://creativevip.net/resource-images/16-food-icons-1.png');
+    background-repeat: no-repeat;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+    border-radius: 12px;
+    font-size: 14pt;
+
+}
+
+#add-my-recipe {
+    padding: 14px 40px;
+    border: 2px solid rgb(45, 129, 149) ;
+    font-family: fantasy;
+    font-weight: bolder;
+    cursor:grab;
+    border-radius: 12px;
+    
+
+}
+
+#add-my-recipe:hover {
+    background-color: rgb(45, 129, 149);
+    color: white;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: bolder;
+    color: rgb(45, 129, 149);
+    font-size: 15pt;
+    border-style: inset;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+h2 {
+    font-family: fantasy;
+    font-weight: bolder;
+    color: rgb(52, 107, 120);
+    font-size: 12pt; 
+}
+
+h3 {
+    color: rgb(52, 107, 120);
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 25pt;
+    display: flex;
+    justify-content: center;
+    border-style: dotted;
+    border-bottom: 0px;
+    border-color: rgb(45, 129, 149);
+}
+
+h4 {
+    color: rgb(52, 107, 120);
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 20pt;
+    display: flex;
+    justify-content: center;
+    border-style: dotted;
+    border-top: 0px;
+    border-color: rgb(45, 129, 149);
+}
+
+img {
+    border: 1px solid black;
+    padding: 15px;
+    display:inline-table;
+    margin-left: 30pt;
+    height: 100px;
+    width: 100px;
+    
+}
+
+#meal {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12pt;
+    color: rgb(46, 74, 80);
+
+}
+
+#ing{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12pt;
+    color: rgb(46, 74, 80);
+    border-style: dotted;
+    
+
+}
+
+#dir{
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12pt;
+    color: rgb(46, 74, 80);
+    border-style: dotted;
+    
+    
+
+}
+
+#recipe-id {
+    font-family: fantasy;
+    font-weight: bolder;
+    font-size: 12pt;
+    color: rgb(46, 74, 80);
+}
+
+#deleteBtn {
+    padding: 14px 40px;
+    border: 2px solid rgb(45, 129, 149) ;
+    font-family: fantasy;
+    font-weight: bolder;
+    cursor:alias;
+    border-radius: 12px;
+
+}
+#deleteBtn:hover {
+    background-color: rgb(45, 129, 149);
+    color: white;
+}
